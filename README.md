@@ -9,5 +9,5 @@ pip install opencv-python pillow numpy
 run main.py with python3 main.py
 
 
-ENJOY!!!
+#ENJOY!!!
 
