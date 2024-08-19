@@ -10,5 +10,6 @@ Make sure you have the required libraries installed:
 run main.py with </br>`python3 main.py`</br>
 
 
-## ENJOY!!
+# ENJOY!!
+
 # __**</br>🔥🚀 !!FAST RENDERING EDITION!! 🚀🔥</br>**__
