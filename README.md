@@ -12,5 +12,4 @@ run main.py with python3 main.py
 ENJOY!!!
            
             
-            
-   <center/>## __**🔥🚀 !!FAST RENDERING EDITION!! 🚀🔥**__<center/>
+  ## __**🔥🚀 !!FAST RENDERING EDITION!! 🚀🔥**__
