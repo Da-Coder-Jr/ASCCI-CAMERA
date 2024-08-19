@@ -1,4 +1,4 @@
-clone this repo with </br>git clone https://github.com/Da-Coder-Jr/ASCCI-CAMERA.git</br>
+clone this repo with </br>`git clone https://github.com/Da-Coder-Jr/ASCCI-CAMERA.git`</br>
 
 
 
