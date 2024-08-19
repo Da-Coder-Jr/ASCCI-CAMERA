@@ -10,7 +10,7 @@ run main.py with python3 main.py
 
 
 ENJOY!!!
-
-
- # __**🔥🚀 !!FAST RENDERING!! 🚀🔥**__
-
+           
+            
+            
+   <center/>## __**🔥🚀 !!FAST RENDERING EDITION!! 🚀🔥**__<center/>
