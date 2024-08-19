@@ -3,13 +3,12 @@ clone this repo with </br>`git clone https://github.com/Da-Coder-Jr/ASCCI-CAMERA
 
 
 Make sure you have the required libraries installed:
-pip install opencv-python pillow numpy
- cd to the dir with  cd ASCCI-CAMERA
+</br>`pip install opencv-python pillow numpy`</br>
 
-run main.py with python3 main.py
+ cd to the dir with </br>`cd ASCCI-CAMERA`</br>
+
+run main.py with </br>`python3 main.py`</br>
 
 
-ENJOY!!!
-           
-            
-  ## __**🔥🚀 !!FAST RENDERING EDITION!! 🚀🔥**__
+ENJOY!!
+# __**</br>🔥🚀 !!FAST RENDERING EDITION!! 🚀🔥</br>**__
