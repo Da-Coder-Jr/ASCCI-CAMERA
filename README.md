@@ -1,6 +1,5 @@
 <div align="center">
 
-# __**🔥🚀  FAST RENDERING EDITION! 🚀🔥**__
 
 Clone this repo with: `git clone https://github.com/Da-Coder-Jr/ASCCI-CAMERA.git` 
 
